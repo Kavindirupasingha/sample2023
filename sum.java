@@ -5,5 +5,6 @@ class sum
         int b = 8;
         int c = 6;
         int d = 4;
+        int l =9;
         System.out.println(a+b); //summation
 }
